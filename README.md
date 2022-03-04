@@ -6,7 +6,6 @@ The cluster challenge is designed to introduce participants to HPC and parallel 
 
 Since the goal is to introduce students to parallel programming, part of the event will involve teaching parallel concepts and parallel programming in Python specifically. We hope even students who have done some HPC work previously can find interest in using Python, since it's likely they will have used other, more typical HPC languages. 
 
-The challenges will take the form of accelerating an N-Body simulation of a number of interesting astrophysical problems. The physics is high-school level, requiring some understanding of gravitational forces between two objects, the equations governing the systems are, again, mid-high-school level and the numerical methods used to advance the equations in time will likely be new to participants but are quick to explain and do not require deep mathematical understanding. Since this is not an exercise in computational science, we will provide a fully functional, serial Python code, with a suite of robust tests that the students can use to verify their results. 
 
 ## Intended Learning Outcomes
 
@@ -55,3 +54,20 @@ This schedule is extremely approximate and should be adapted as the material dev
 We are using [Timo Betcke's Techniques of High-Performance Computing](https://tbetcke.github.io/hpc_lecture_notes/intro.html) as a basis for the teaching portion of the event.
 
 ### Intro to parallel programming in Python
+
+TODO - what do we want to teach in this part?
+
+### Intro to GPU accel in Python
+
+TODO
+
+## Challenges
+
+The challenges will take the form of accelerating an N-Body simulation of a number of interesting astrophysical problems. The physics is high-school level, requiring some understanding of gravitational forces between two objects, the equations governing the systems are, again, mid-high-school level and the numerical methods used to advance the equations in time will likely be new to participants but are quick to explain and do not require deep mathematical understanding. Since this is not an exercise in computational science, we will provide a fully functional, serial Python code, with a suite of robust tests that the students can use to verify their results. 
+
+### Problems
+
+- 2-body system
+- 3-body system
+- simple solar system
+- formation of gaps in Saturn's rings (requires HPC)
