@@ -16,7 +16,7 @@ We want the students to leave with answers to the following questions:
 - How do we measure performance in HPC?
 - What are strong and weak scaling?
 - How to vectorise code?
-- How to parallelised over multiple cores?
+- How to parallelise over multiple cores?
 - How to accelerate on a GPU?
 
 This leads us to a list of topics to cover:
@@ -55,11 +55,19 @@ We are using [Timo Betcke's Techniques of High-Performance Computing](https://tb
 
 ### Intro to parallel programming in Python
 
-TODO - what do we want to teach in this part?
+The non-GPU material from Timo's course:
+
+- [What is HPC](https://tbetcke.github.io/hpc_lecture_notes/what_is_hpc.html)
+- ...
+- [Numexpr](https://tbetcke.github.io/hpc_lecture_notes/numexpr.html)
+
+Plus an intro to profiling using `line_profiler`. This could be taken from [Lorena Barba's course on reproducible research](https://barbagroup.github.io/essential_skills_RRC/numba/1/).
 
 ### Intro to GPU accel in Python
 
-TODO
+Second part of the HPC section of Timo's course.
+
+Introduction to CUDA profiling using nvidia's tooling. See [the Numba CUDA profiling documentation](https://numba.readthedocs.io/en/stable/cuda-reference/host.html#cuda-profiling). 
 
 ## Challenges
 
