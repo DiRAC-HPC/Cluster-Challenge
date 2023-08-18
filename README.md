@@ -1,81 +1,23 @@
-# Cluster-Challenge
+# UCL's Kickstart HPC Cluster Challenge
 
 ## Overview
 
-The cluster challenge is designed to introduce participants to HPC and parallel programming with an overarching aim of encouraging more students to consider HPC as a good career. In order to make the challenge as accessible as possible, the programming language of choice is Python. Although this does not provide as much flexibility and potential for performance tuning as, for example, C++, there are enough parallel features of Python to introduce core parallel programming concepts and to hook participants on "making code run real fast".
+UCL Centre for Advanced Research Computing - ARC (supported by funding from DiRAC, which we gratefully acknowledge) ran a student HPC careers day in February 2022 and a follow-up hands-on student cluster challenge in May 2022, with the aim of developing a framework for the HPC community to grow undergraduate and graduate students’ interest in pursuing a career in HPC. We used the strapline "Kickstart HPC" to promote both of these events.
 
-Since the goal is to introduce students to parallel programming, part of the event will involve teaching parallel concepts and parallel programming in Python specifically. We hope even students who have done some HPC work previously can find interest in using Python, since it's likely they will have used other, more typical HPC languages. 
+## Student Careers Day
 
+The careers day was run as a Zoom webinar and attracted attendees from across UCL and several external institutions, with a variety of speakers from both academia and industry talking about their own careers. The webinar was open to all, with no requirement for students status or intent to participate in the cluster challenge, although obviously this was encouraged.
 
-## Intended Learning Outcomes
+## Cluster Challenge
 
-We want the students to leave with answers to the following questions:
+In the event, the cluster challenge was limited to UCL undergraduate and postgraduate students, partly because of the logistics of providing access to the UCL cluster; we did invite all of those who attended the careers day to consider entering the challenge and were prepared if necessary to make up mixed teams with both external participants and UCL students working on the challenge together, with a UCL student submitting the jobs to the cluster. In order to make the hands-on challenge as accessible as possible, we ran this as a hybrid event with those unable to attend in-person joining online via Teams. We chose Python as the programming language to encourage those not familiar with the more traditionally-used HPC languages. Although Python does not provide as much flexibility and potential for performance tuning as, for example, C++, there are enough parallel features of Python to introduce core parallel programming concepts and to hook participants on "making code run real fast". 
 
-- Why do we need parallel codes?
-- Why can HPC development be challenging?
-- How do we measure performance in HPC?
-- What are strong and weak scaling?
-- How to vectorise code?
-- How to parallelise over multiple cores?
-- How to accelerate on a GPU?
+## Training and Taught Elements
 
-This leads us to a list of topics to cover:
+We strongly recommended that in order to get the most out of the challenge, the students should have a minimum level of knowledge/experience including familiarity with Unix/Linux command line, some experience with Python, and ideally, having attended an HPC Carpentry workshop (or similar) for background knowledge of HPC clusters and batch job submission. We provided a [list of suitable self-paced resources](https://www.ucl.ac.uk/advanced-research-computing/cluster-challenge-training-resources) for students to work through before the two days of the hands-on challenge. 
 
-- motivation for HPC codes
-- pitfalls in parallel programming
-- profiling and scaling measurements
-- vectorisation
-- multi-core parallelisation
-- GPU acceleration
+The student cluster challenge days both had a taught element in the morning, followed by a hands-on challenge in the afternoon. We used [Timo Betcke's Techniques of High-Performance Computing](https://tbetcke.github.io/hpc_lecture_notes/intro.html) as a basis for the teaching portion of the event. More detail can be found in the challenge folder of this repository.
 
-What we do *not* want to touch:
-- MPI and multi-node HPC (because of node limits on Myriad)
-- Communication patterns
-- Detailed concurrancy (locks, mutexes, etc) (caveat: races will be covered)
+## Feedback and Lessons Learned
 
-## Schedule
-
-This schedule is extremely approximate and should be adapted as the material develops.
-
-### Day 1
-
-- 10-12 - Introduction to parallel programming in Python (taught)
-- 12-1 - Lunch
-- 1-5 - CPU challenge
-
-### Day 2
-
-- 10-12 - Introduction to GPU programming in Python (taught)
-- 12-1 - Lunch
-- 1-5 GPU challenge
-
-## Taught elements
-
-We are using [Timo Betcke's Techniques of High-Performance Computing](https://tbetcke.github.io/hpc_lecture_notes/intro.html) as a basis for the teaching portion of the event.
-
-### Intro to parallel programming in Python
-
-The non-GPU material from Timo's course:
-
-- [What is HPC](https://tbetcke.github.io/hpc_lecture_notes/what_is_hpc.html)
-- ...
-- [Numexpr](https://tbetcke.github.io/hpc_lecture_notes/numexpr.html)
-
-Plus an intro to profiling using `line_profiler`. This could be taken from [Lorena Barba's course on reproducible research](https://barbagroup.github.io/essential_skills_RRC/numba/1/).
-
-### Intro to GPU accel in Python
-
-Second part of the HPC section of Timo's course.
-
-Introduction to CUDA profiling using nvidia's tooling. See [the Numba CUDA profiling documentation](https://numba.readthedocs.io/en/stable/cuda-reference/host.html#cuda-profiling). 
-
-## Challenges
-
-The challenges will take the form of accelerating an N-Body simulation of a number of interesting astrophysical problems. The physics is high-school level, requiring some understanding of gravitational forces between two objects, the equations governing the systems are, again, mid-high-school level and the numerical methods used to advance the equations in time will likely be new to participants but are quick to explain and do not require deep mathematical understanding. Since this is not an exercise in computational science, we will provide a fully functional, serial Python code, with a suite of robust tests that the students can use to verify their results. 
-
-### Problems
-
-- 2-body system
-- 3-body system
-- simple solar system
-- formation of gaps in Saturn's rings (requires HPC)
+Feedback from the careers day was collected via [sli.do](https://sli.do), and we used a feedback form for the hands-on cluster challenge as well as positive/negative post-it notes on the day. This feedback can be seen in the examples folder of this repository, as well as a summary of the lessons we learned in the prerequisites folder.
