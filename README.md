@@ -20,4 +20,4 @@ The student cluster challenge days both had a taught element in the morning, fol
 
 ## Feedback and Lessons Learned
 
-Feedback from the careers day was collected via [sli.do](https://sli.do), and we used a feedback form for the hands-on cluster challenge as well as positive/negative post-it notes on the day. This feedback can be seen in the examples folder of this repository, as well as a summary of the lessons we learned in the [prerequisites](https://github.com/DiRAC-HPC/Cluster-Challenge/tree/main/prerequisites) folder.
+Feedback from the careers day was collected via [sli.do](https://sli.do), and we used a feedback form for the hands-on cluster challenge as well as positive/negative post-it notes on the day. This feedback can be seen in the [examples folder](https://github.com/DiRAC-HPC/Cluster-Challenge/tree/main/examples) of this repository, as well as a summary of the lessons we learned in the [prerequisites](https://github.com/DiRAC-HPC/Cluster-Challenge/tree/main/prerequisites) folder.
