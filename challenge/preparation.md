@@ -39,6 +39,8 @@ See challenge details for links to the teaching material we used.
 
 Two meembers of ARC staff each taught one of the sessions, with the other acting as an assistant/demonstrator for the hands-on sessions. We also had an additional 2 helpers on on standby so that each team could benefit from a dedicated advisot, although in the event this was not needed as we only had two teams rather than the four teams we had anticipated (we set the maximum team size as 5 students).
 
+A [HackMD](https://hackmd.io/X_-hIee7SvavFqFa4rK_BQ) was set up for use on the day.
+
 ## Schedule
 
 The approximate schedule was as follows:
