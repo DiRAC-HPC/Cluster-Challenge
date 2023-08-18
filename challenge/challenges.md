@@ -53,6 +53,8 @@ This schedule was extremely approximate and should be adapted as the material de
 
 ## Taught elements
 
+See [lecture notes](https://github.com/tkoskela/hpc_lecture_notes/tree/master/cluster_challenge/26May2022) and [participants' HackMD](https://hackmd.io/X_-hIee7SvavFqFa4rK_BQ).
+
 We used [Timo Betcke's Techniques of High-Performance Computing](https://tbetcke.github.io/hpc_lecture_notes/intro.html) as a basis for the teaching portion of the event.
 
 ### Intro to parallel programming in Python
@@ -69,6 +71,8 @@ Plus an intro to profiling using `line_profiler`. This could be taken from [Lore
 Second part of the HPC section of Timo's course.
 
 Introduction to CUDA profiling using nvidia's tooling. See [the Numba CUDA profiling documentation](https://numba.readthedocs.io/en/stable/cuda-reference/host.html#cuda-profiling). 
+
+
 
 ## Challenges
 
