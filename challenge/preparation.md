@@ -64,12 +64,12 @@ The approximate schedule was as follows:
 
 The 6 participants were split into 2 teams of 3 (one female and 2 males in each team, with one person (a postgraduate student) in each team having a limited amount of prior HPC experience. 3 of the 6 were postgraduate students, with 3 undergraduate students. Neither of the teams managed to complete the second day’s GPU challenge, although they did manage to complete the first one (parallelisation of the code on a CPU). 
 
-For the last hour of the challenges, a countdown was clock displayed on the screen at the front of the classroom. When the time was up, each team's code was checked and run by one of the tutors. The results were close, with the winning team’s code taking 26 seconds and the runner-up taking 30 seconds. In view of this, we decided to award a winner and a runner-up prize (we had discussed this earlier on). The results were announced immediately (followed by a short social event) and prize vouchers were emailed to the participants a few days later.
+For the last hour of the challenges, a countdown clock was displayed on the screen at the front of the classroom. When the time was up, each team's code was checked and run by one of the tutors. The results were close, with the winning team’s code taking 26 seconds and the runner-up taking 30 seconds. In view of this, we decided to award a winner and a runner-up prize (we had discussed this earlier on). The results were announced immediately (followed by a short social event) and prize vouchers were emailed to the participants a few days later.
 
 ## Feedback from the event
 
 Although the number of attendees was disappointing (6 out of the 20 who had registered), it was heartening to learn from the (paper, circulated on the last afternoon of the event) feedback forms that those who participated were not only enthusiastic about the event itself, but all of them wanted to learn more about careers in HPC and 4 of the 6 were interested in participating in the CIUK cluster challenge in December, if UCL organised a team (the other 2 were due to leave UCL before then). We had some very positive comments about the teaching and the atmosphere of the event, with several mentioning how much they had enjoyed themselves and how much they had learned. Negatives mainly concerned the perceived lack of advertising, and one person found the variety of training resources confusing (although someone else commented on how useful they were). Suggestions for improvement were mainly requests for more demos, examples, and hands-on time; this would mean extending the event to 3 days but is certainly something to consider for future challenges. We got the impression that everyone was quite tired at the end of the second day!
 
-Detailed feedback can be seen in the examples folder of this repository.
+Detailed feedback can be seen in the [examples folder](https://github.com/DiRAC-HPC/Cluster-Challenge/tree/main/examples) of this repository.
 
 
