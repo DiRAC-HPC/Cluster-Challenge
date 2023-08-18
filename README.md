@@ -2,7 +2,7 @@
 
 ## Overview
 
-UCL Centre for Advanced Research Computing - ARC (supported by funding from [DiRAC](https://www.dirac.ac.uk), which we gratefully acknowledge) ran a student HPC careers day in February 2022 and a follow-up hands-on student cluster challenge in May 2022, with the aim of developing a framework for the HPC community to grow undergraduate and graduate students’ interest in pursuing a career in HPC. We used the hashtag/strapline "Kickstart HPC" on Twitter, LinkedIn and the [ARC website](https://www.ucl.ac.uk/arc) to promote the aims of the project, and the events we hosted. We hope that others find the resources in this repository useful if planning to run a similar challenge.
+The UCL Centre for Advanced Research Computing (ARC) - supported by funding from [DiRAC](https://www.dirac.ac.uk), which we gratefully [acknowledge](https://github.com/DiRAC-HPC/Cluster-Challenge/blob/main/examples/Acknowledge%20funding%20text.pdf) - ran a student HPC careers day in February 2022 and a follow-up hands-on student cluster challenge in May 2022, with the aim of developing a framework for the HPC community to grow undergraduate and graduate students’ interest in pursuing a career in HPC. We used the hashtag/strapline "Kickstart HPC" and [associated logo]() on Twitter, LinkedIn and the [ARC website](https://www.ucl.ac.uk/arc) to promote the aims of the project, and the events we hosted. We hope that others find the resources in this repository useful if planning to run a similar challenge.
 
 ## Student Careers Day
 
