@@ -53,9 +53,8 @@ This schedule was extremely approximate and should be adapted as the material de
 
 ## Taught elements
 
-See [lecture notes](https://github.com/tkoskela/hpc_lecture_notes/tree/master/cluster_challenge/26May2022) and [participants' HackMD](https://hackmd.io/X_-hIee7SvavFqFa4rK_BQ).
 
-We used [Timo Betcke's Techniques of High-Performance Computing](https://tbetcke.github.io/hpc_lecture_notes/intro.html) as a basis for the teaching portion of the event.
+We used [Timo Betcke's Techniques of High-Performance Computing](https://tbetcke.github.io/hpc_lecture_notes/intro.html) as a basis for the teaching portion of the event. See [lecture notes](https://github.com/tkoskela/hpc_lecture_notes/tree/master/cluster_challenge/26May2022).
 
 ### Intro to parallel programming in Python
 
@@ -84,3 +83,6 @@ The challenges took the form of accelerating an N-Body simulation of a number of
 - 3-body system
 - simple solar system
 - formation of gaps in Saturn's rings (requires HPC)
+
+See [participants' HackMD](https://hackmd.io/X_-hIee7SvavFqFa4rK_BQ).
+
