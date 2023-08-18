@@ -5,6 +5,8 @@
 
 We circulated details of the recommended training to all of the registered participants and strongly encouraged them to ensure they were familiar with the Linux command line and the basics of how to submit jobs to the UCL Myriad cluster, as well as having some knowledge of Python. 
 
+We established a [Kickstart HPC Slack platform](https://kickstart-hpc.slack.com) with separate channels for the planning team and for communication with cluster challenge participants. We hoped this would also allow the students to get to know each other beforehand.
+
 We asked people to pre-register for the Myriad cluster (using the standard self-service UCL research computing account application form) to speed things up on the day. These training accounts were removed at the end of the challenge.
 
 As all of the registered participants were from UCL, we strongly recommended that they should attend in person rather than online, emphasising that they would have a better experience if they did so; however, we did provide a Teams link for someone that requested to join online because they were out of the country at the time, and also circulated the link via Eventbrite on the morning of the first day of the challenge so that anyone who was unable to attend in person at the last minute due to illness, etc. could still join. We deliberately did not do this too far in advance to discourage people from thinking that this was a “webinar-style” event. (We also emphasised in publicity communications and on the registration site that this was a hands-on challenge).
@@ -37,7 +39,7 @@ We decided to include a taught element in the morning of each day, followed by a
 
 See challenge details for links to the teaching material we used.
 
-Two meembers of ARC staff each taught one of the sessions, with the other acting as an assistant/demonstrator for the hands-on sessions. We also had an additional 2 helpers on on standby so that each team could benefit from a dedicated advisot, although in the event this was not needed as we only had two teams rather than the four teams we had anticipated (we set the maximum team size as 5 students).
+Two members of ARC staff each taught one of the sessions, with the other acting as an assistant/demonstrator for the hands-on sessions. We also had an additional 2 helpers on standby so that each team could benefit from a dedicated advisot, although in the event this was not needed as we only had two teams rather than the four teams we had anticipated (we set the maximum team size as 5 students).
 
 A [HackMD](https://hackmd.io/X_-hIee7SvavFqFa4rK_BQ) was set up for use on the day.
 
@@ -67,5 +69,7 @@ For the last hour of the challenges, a countdown was clock displayed on the scre
 ## Feedback from the event
 
 Although the number of attendees was disappointing (6 out of the 20 who had registered), it was heartening to learn from the (paper, circulated on the last afternoon of the event) feedback forms that those who participated were not only enthusiastic about the event itself, but all of them wanted to learn more about careers in HPC and 4 of the 6 were interested in participating in the CIUK cluster challenge in December, if UCL organised a team (the other 2 were due to leave UCL before then). We had some very positive comments about the teaching and the atmosphere of the event, with several mentioning how much they had enjoyed themselves and how much they had learned. Negatives mainly concerned the perceived lack of advertising, and one person found the variety of training resources confusing (although someone else commented on how useful they were). Suggestions for improvement were mainly requests for more demos, examples, and hands-on time; this would mean extending the event to 3 days but is certainly something to consider for future challenges. We got the impression that everyone was quite tired at the end of the second day!
+
+Detailed feedback can be seen in the examples folder of this repository.
 
 
