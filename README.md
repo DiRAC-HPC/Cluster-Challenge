@@ -16,7 +16,7 @@ In the event, the cluster challenge was limited to UCL undergraduate and postgra
 
 We strongly recommended that in order to get the most out of the challenge, the students should have a minimum level of knowledge/experience including familiarity with Unix/Linux command line, some experience with Python, and ideally, having attended an HPC Carpentry workshop (or similar) for background knowledge of HPC clusters and batch job submission. We provided a [list of suitable self-paced resources](https://www.ucl.ac.uk/advanced-research-computing/cluster-challenge-training-resources) for students to work through before the two days of the hands-on challenge. 
 
-The student cluster challenge days both had a taught element in the morning, followed by a hands-on challenge in the afternoon. We used [Timo Betcke's Techniques of High-Performance Computing](https://tbetcke.github.io/hpc_lecture_notes/intro.html) as a basis for the teaching portion of the event. More detail can be found in the challenge folder of this repository.
+The student cluster challenge days both had a taught element in the morning, followed by a hands-on challenge in the afternoon. We used [Timo Betcke's Techniques of High-Performance Computing](https://tbetcke.github.io/hpc_lecture_notes/intro.html) as a basis for the teaching portion of the event. More details can be found in the [challenge folder](https://github.com/DiRAC-HPC/Cluster-Challenge/tree/main/challenge) of this repository.
 
 ## Feedback and Lessons Learned
 
