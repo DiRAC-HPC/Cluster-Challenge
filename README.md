@@ -18,7 +18,7 @@ We strongly recommended that in order to get the most out of the challenge, the 
 
 The student cluster challenge days both had a taught element in the morning, followed by a hands-on challenge in the afternoon. We used [Timo Betcke's Techniques of High-Performance Computing](https://tbetcke.github.io/hpc_lecture_notes/intro.html) as a basis for the teaching portion of the event. More details can be found in the [challenge folder](https://github.com/DiRAC-HPC/Cluster-Challenge/tree/main/challenge) of this repository.
 
-We provided a list of suitable self-paced resources for students to work through before the two days of the hands-on challenge, including the DiRAC Foundation HPC Course which offers a complete suite of training designed to give you an introduction to the principles of HPC and the tools needed to work on an HPC system.
+We provided a list of suitable self-paced resources for students to work through before the two days of the hands-on challenge, including the [DiRAC Foundation HPC Course](https://dirac.ac.uk/courses/hpc-skills-training/) which offers a complete suite of training designed to give you an introduction to the principles of HPC and the tools needed to work on an HPC system.
 
 ## Feedback and Lessons Learned
 
