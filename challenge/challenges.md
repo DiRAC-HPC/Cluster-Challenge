@@ -77,6 +77,9 @@ Introduction to CUDA profiling using nvidia's tooling. See [the Numba CUDA profi
 
 The challenges took the form of accelerating an N-Body simulation of a number of interesting astrophysical problems. The physics is high-school level, requiring some understanding of gravitational forces between two objects, the equations governing the systems are, again, mid-high-school level and the numerical methods used to advance the equations in time will likely be new to participants but are quick to explain and do not require deep mathematical understanding. Since this was not an exercise in computational science, we provided a fully functional, serial Python code, with a suite of robust tests that the students could use to verify their results. 
 
+You can find the Challenges here: [Challenges repo](https://github.com/DiRAC-HPC/Cluster-Challenge/blob/main/challenge/challenges.md).
+
+
 ### Problems
 
 - 2-body system
@@ -84,5 +87,5 @@ The challenges took the form of accelerating an N-Body simulation of a number of
 - simple solar system
 - formation of gaps in Saturn's rings (requires HPC)
 
-See [participants' HackMD](https://hackmd.io/X_-hIee7SvavFqFa4rK_BQ).
+See [UCL Local Cluster Instructions](https://hackmd.io/X_-hIee7SvavFqFa4rK_BQ).
 
