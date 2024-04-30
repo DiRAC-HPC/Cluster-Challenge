@@ -1,4 +1,4 @@
-# UCL's Kickstart HPC Cluster Challenge
+# DiRAC's Kickstart HPC Cluster Challenge
 
 ## Overview
 
