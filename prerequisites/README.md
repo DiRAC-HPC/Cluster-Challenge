@@ -11,11 +11,11 @@ We chose to run an additional online event – an HPC Careers Day webinar hosted
 
 We discussed pre-requisites but decided on strong recommendations for training (specifically, an [HPC Carpentry workshop](http://github-pages.ucl.ac.uk/2022-03-07-ucl-online-hpcc/) that we ran after the Careers Day in March 2022) rather than deterring inexperienced people from taking part. However, we were surprised that the participants struggled so much with the first of the two challenges and did not complete the second one, especially in view of the fact that all of them said they had done most, if not all, of the recommended pre-learning. 
 
-Although most of the participants had at least some command line experience, only two had any prior experience of using a compute cluster and clearly this lack of hands-on experience was a problem. To deal with this we would suggest making it a requirement to attend an HPC Carpentry workshop or similar hands-on introductory course, instead of doing the equivalent self-paced learning (unfortunately, almost all of the participants had chosen this route rather than attending the workshop). 
+Although most of the participants had at least some command line experience, only two had any prior experience of using a compute cluster and clearly this lack of hands-on experience was a problem. To deal with this we would suggest making it a requirement to attend an HPC Carpentry workshop, The [DiRAC Foundation HPC-Skills](https://dirac.ac.uk/courses/hpc-skills-training/) online course or similar hands-on introductory course, instead of doing the equivalent self-paced learning (unfortunately, almost all of the participants had chosen this route rather than attending the workshop). 
 
 See the [list of recommended training resources](https://www.ucl.ac.uk/advanced-research-computing/cluster-challenge-training-resources) we used.
 
-For participants with significant experience, another approach would be to develop a quiz to test their existing knowledge, similar to the DiRAC essentials level “driving” test. This would give them confidence if they passed, as well as highlighting any areas of weakness/need for further reading or training.
+For participants with significant experience, another approach would be to develop a quiz to test their existing knowledge, similar to the [DiRAC Foundation HPC-Skills assessment](https://dirac.ac.uk/courses/hpc-skills-assessment/). This would give them confidence if they passed, as well as highlighting any areas of weakness/need for further reading or training.
 
 
 ## Hardware
